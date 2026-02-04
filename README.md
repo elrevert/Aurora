@@ -2,7 +2,7 @@
 
 >Note - Not available yet. Final stages of documentation writing and prepping release version.
 
-Aurora is a plugin (AU) and I/O manager, built specifically for Logic Pro.</p>
+Aurora is a Plugin Manager (AU) and I/O Manager, built specifically for Logic Pro.</p>
 
 ![Aurora v0.25 Alpha](MainWindow.png)
 
