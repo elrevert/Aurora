@@ -56,7 +56,7 @@ Aurora has been tested and confirmed as working on the following software and OS
 1. Download the latest release and unzip.
 2. Drag Aurora into your Applications folder.
 3. Right-click -> Open
-4. Depending on your Gatekeeper configuration, you might be prompted to open System Preferences -> Privacy and Security -> Open Anyway.
+4. Depending on your Gatekeeper configuration, you may need to follow the following steps: System Preferences -> Privacy and Security -> Open Anyway.
 5. **Be aware that Aurora is currently in Alpha. There may be significant bugs.** I advise against using it with any Logic installation where you don't want to risk losing custom names, preferences or I/O labels.
 
 ### General Usage
