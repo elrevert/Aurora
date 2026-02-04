@@ -61,7 +61,7 @@ Aurora has been tested and confirmed as working on the following software and OS
 
 ### General Usage
 
-- See the [Wiki] for a full usage guide.
+- See the [Wiki](https://github.com/elrevert/Aurora/wiki/User-Guide) for a comprehensive user guide.
 <br>
 
 # More Info
