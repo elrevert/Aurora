@@ -100,7 +100,7 @@ If you feel like either of these answers are a problem, don't use Aurora.
 
 ### Why the annoying Donationware window?
 
-I'm a full-time mixing and mastering engineer. I initially started developing Aurora to solve problems in my own personal workflow that needed fixing. During early development, it became clear fairly quickly that the app would likely be useful to more people than just myself.
+I'm a full-time mix and mastering engineer. I initially started developing Aurora to solve problems in my own personal workflow that needed fixing. During early development, it became clear fairly quickly that the app would likely be useful to more people than just myself.
 
 The issue with releasing the app publicly as pure freeware is this; bug reports. Bug reports that I will have to deal with. Bug reports that I can't reasonably justify spending time dealing with for free. 
 
@@ -137,7 +137,7 @@ KVR Studio Manager already does what we need and it does it far better than anyt
 
 ## Regarding Bug Support
 
-I built this primarily for my own personal use as a full-time mix engineer. While I will *try* to provide bug support where I can, I'm not a software engineer. Feel free to make suggestions for features but whether or not they will be implemented will be determined entirely by how much I would personally value them and if they match my workflow. 
+I built this primarily for my own personal use. While I will *try* to provide bug support where I can, I'm not a software engineer. Feel free to make suggestions for features but whether or not they will be implemented will be determined entirely by how much I would personally value them and if they match my workflow. 
 
 
 ## Changelog
