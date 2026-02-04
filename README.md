@@ -4,6 +4,8 @@
 
 Aurora is a plugin (AU) and I/O manager, built specifically for Logic Pro.</p>
 
+![Aurora v0.25 Alpha](MainWindow.png)
+
 ## Features
 
 - Add, edit and remove custom plugin names & short names without having to open Logic.
@@ -15,10 +17,7 @@ Aurora is a plugin (AU) and I/O manager, built specifically for Logic Pro.</p>
 - Customizable CSV export.
 - Light/Dark Mode support.
 
-
-![Aurora v0.25 Alpha](MainWindow.png)
 ![Aurora v0.25 Alpha I/O](IOWindow.png)
-
 
 ## Why do I need this?
 
