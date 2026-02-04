@@ -62,7 +62,7 @@ Aurora has been tested and confirmed as working on the following software and OS
 ### General Usage
 
 - See the [Wiki](https://github.com/elrevert/Aurora/wiki/User-Guide) for a comprehensive user guide.
-- Be aware that whenever you install a new plugin, you will need to run a new scan in KVR Studio Manager (if installed) for Aurora to sync the data for the new plugin correctly. 
+- Be aware that whenever you install a new plugin, you will need to run a new scan in KVR Studio Manager (if installed) for Aurora to sync the KVR-related data for the new plugin correctly. 
 <br>
 
 # More Info
