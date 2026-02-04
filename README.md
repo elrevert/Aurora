@@ -28,8 +28,8 @@ Aurora is a Plugin Manager (AU) and I/O Manager, built specifically for Logic Pr
 
 ## Why choose Aurora over other plugin managers?
 
-1. Most other plugin managers are ugly and slow because they have to cater to multiple plugin formats, DAWs and operating systems.
-2. A lot of the other plugin managers I tested during R&D are essentially just glorified finder windows - they contain no features that are actually useful and often charge for the privilege.
+1. Most other plugin managers are ugly and slow. This is because they have to cater to multiple plugin formats, DAWs and operating systems.
+2. A lot of the plugin managers I tested during R&D are essentially just glorified Finder windows - they contain no features that are actually useful and often charge for the privilege.
 <br>
 
 # Usage
