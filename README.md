@@ -1,6 +1,6 @@
 # Overview
 
->Note - Not available yet. Final stages of documentation writing and prepping release version.
+>Not available yet. Final stages of prepping the release version and finishing up the documentation.
 
 Aurora is a Plugin Manager (AU) and I/O Manager, built specifically for Logic Pro.</p>
 
