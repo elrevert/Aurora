@@ -92,7 +92,7 @@ No, it's not risky at all. A couple of points regarding this topic:
 
 - Aurora (obviously) does not contain malware. The reason macOS shows this warning is purely because I don't pay for the apple developer program - I can't justify the cost of it against releasing a single app that is essentially freeware. 
 
-- Aurora is not (and never will be) open source. The reason for this is that some 'developers' in this space seem to have a habit of ripping off features from other apps and then charging for them. If you really want to take a look at the source code, let me know and I'll send it to you. 
+- Aurora is not (and never will be) open source. The reason for this is that some 'developers' in this space seem to have a habit of ripping off features from other apps and then charging for them. If you really want to take a look at the source code for your own peace of mind, let me know and I'll send it to you. 
 
 If you feel like either of these answers are a problem, don't use Aurora.
 <br>
