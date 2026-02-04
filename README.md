@@ -47,7 +47,7 @@ Aurora has been tested and confirmed as working on the following software and OS
  - Logic Pro 12.x (Standalone)
  - KVR Studio Manager 0.3.0.1 + (optional)
 
-## Installation
+## Installation - AURORA NOT AVAILABLE YET (26-02-04)
 
 0. (If you want Aurora to show whether plugin updates are available) Install KVR Studio Manager, open it and run a scan. This step is completely optional.
 1. Download the latest release and unzip.
