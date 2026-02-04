@@ -23,7 +23,7 @@ Aurora is a Plugin Manager (AU) and I/O Manager, built specifically for Logic Pr
 
 1. Aurora is designed exclusively for **fast macOS & Logic integration**. No 'deep scans' or full plugin initialization required; if you've installed it, it's in Aurora.
 2. Aurora can add, edit and remove custom plugin names, short names and plugin categories without having to open Logic
-3. Aurora is a fully-fledged I/O label editor. You can use it to changes the labels of your inputs, outputs and busses. You can also save, export and import I/O label presets, allowing for easy switching between I/O setups.
+3. Aurora is a fully-fledged I/O label editor. You can use it to changes the labels of your inputs, outputs and busses. You can also save, export and import I/O label presets, allowing for easy switching between different I/O & bus configurations.
 4. Aurora can pull data directly from KVR Studio Manager, allowing additional information such as whether or not an update is available to be displayed at a glance. This feature is completely optional.
 
 ## Why choose Aurora over other plugin managers?
