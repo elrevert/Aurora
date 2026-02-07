@@ -8,7 +8,7 @@ Aurora is a Plugin Manager (AU) and I/O Manager, built specifically for Logic Pr
 
 - Add, edit and remove custom plugin names & short names without having to open Logic.
 - Add, edit, remove and assign plugins to Logic categories without having to open Logic. 
-- Fully-fledged I/O label editor including the ability to import and export presets, allowing you to easily switch between I/O setups when working on different projects.
+- I/O label editor including the ability to import and export presets, allowing you to easily switch between I/O setups when working on different projects.
 - KVR Studio Manager integration for displaying update availability.
 - Searchable per-plugin tags and notes.
 - Comprehensive search and filter.
@@ -22,7 +22,7 @@ I strongly recommend reading the [Wiki](https://github.com/elrevert/Aurora/wiki/
 ## Why do I need this?
 
 1. Aurora allows you to add, edit and remove custom plugin names, short names and plugin categories without having to open Logic
-2. Aurora is a fully-fledged I/O label editor. You can use it to changes the labels of your inputs, outputs and busses. You can also save, export and import I/O label presets, allowing for easy switching between different I/O & bus configurations.
+2. Aurora is a fully fledged I/O label editor. You can use it to changes the labels of your inputs, outputs and busses. You can also save, export and import I/O label presets, allowing for easy switching between different I/O & bus configurations.
 3. Aurora can pull data directly from KVR Studio Manager, allowing additional information such as whether or not an update is available to be displayed at a glance. This feature is completely optional.
 
 ## Why choose Aurora over other plugin managers?
