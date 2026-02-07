@@ -1,7 +1,5 @@
 # Overview
 
->Not available yet. Final stages of prepping the release version and finishing up the documentation.
-
 Aurora is a Plugin Manager (AU) and I/O Manager, built specifically for Logic Pro.</p>
 
 ![Aurora v0.25 Alpha](MainWindow.png)
@@ -16,6 +14,8 @@ Aurora is a Plugin Manager (AU) and I/O Manager, built specifically for Logic Pr
 - Comprehensive search and filter.
 - Customizable CSV export.
 - Light/Dark Mode support.
+
+I strongly recommend reading the [Wiki](https://github.com/elrevert/Aurora/wiki/User-Guide) for a comprehensive breakdown of all of the features Aurora has to offer and how they work.
 
 ![Aurora v0.25 Alpha I/O](IOWindow.png)
 
@@ -144,5 +144,5 @@ I built this primarily for my own personal use. While I will *try* to provide bu
 
 ## Changelog
 ```
-2026-02-04 V0.25 - Initial alpha release.
+2026-02-07 V0.26a - Initial alpha release.
 ```
