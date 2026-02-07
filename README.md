@@ -88,7 +88,7 @@ Restart Logic.
 <br>
 <br>
 
-### Why is Aurora unsigned? Why does macOS tell me that it can't be scanned for malware? Is it risky for me to run? Why haven't you uploaded the source code?
+### Why is Aurora unsigned? Why does macOS tell me that it can't be scanned for malware? Why haven't you uploaded the source code? Is it risky for me to run?
 
 No, it's not risky at all. A couple of points regarding this topic:
 
