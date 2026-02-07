@@ -21,14 +21,13 @@ Aurora is a Plugin Manager (AU) and I/O Manager, built specifically for Logic Pr
 
 ## Why do I need this?
 
-1. Aurora is designed exclusively for **fast macOS & Logic integration**. No 'deep scans' or full plugin initialization required; if you've installed it, it's in Aurora.
-2. Aurora lets you add, edit and remove custom plugin names, short names and plugin categories without having to open Logic
-3. Aurora is a fully-fledged I/O label editor. You can use it to changes the labels of your inputs, outputs and busses. You can also save, export and import I/O label presets, allowing for easy switching between different I/O & bus configurations.
-4. Aurora can pull data directly from KVR Studio Manager, allowing additional information such as whether or not an update is available to be displayed at a glance. This feature is completely optional.
+1. Aurora lets you add, edit and remove custom plugin names, short names and plugin categories without having to open Logic
+2. Aurora is a fully-fledged I/O label editor. You can use it to changes the labels of your inputs, outputs and busses. You can also save, export and import I/O label presets, allowing for easy switching between different I/O & bus configurations.
+3. Aurora can pull data directly from KVR Studio Manager, allowing additional information such as whether or not an update is available to be displayed at a glance. This feature is completely optional.
 
 ## Why choose Aurora over other plugin managers?
 
-1. Most other plugin managers are ugly and slow. This is because they have to cater to multiple plugin formats, DAWs and operating systems.
+1. Most other plugin managers are bloated, ugly and slow. This is because they have to cater to multiple plugin formats, DAWs and operating systems. Aurora is designed exclusively for **fast macOS & Logic integration**. No 'deep scans' or full plugin initialization required; if you've installed it, it's in Aurora.
 2. A lot of the plugin managers I tested during R&D are essentially just glorified Finder windows - they contain no features that are actually useful and often charge for the privilege.
 <br>
 
