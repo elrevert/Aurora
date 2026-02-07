@@ -41,9 +41,10 @@ Minimum Requirements (assumed, not tested):
  - Logic Pro 10.x
  - KVR Studio Manager 0.3.x (optional)
 
-Aurora has been tested and confirmed as working on the following software and OS versions:
+Aurora has been tested and confirmed as working on the following OS and software versions:
 
- - macOS Tahoe 26.2 (U2B)
+ - macOS Tahoe 26.2 (ARM)
+ - macOS Sequoia 15.7.3 (Intel)
  - Logic Pro 11.x
  - Logic Pro 12.x (Creator Studio)
  - Logic Pro 12.x (Standalone)
