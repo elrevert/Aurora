@@ -21,7 +21,7 @@ I strongly recommend reading the [Wiki](https://github.com/elrevert/Aurora/wiki/
 
 ## Why do I need this?
 
-1. Aurora allows you to add, edit and remove custom plugin names, short names and plugin categories without having to open Logic
+1. Aurora allows you to add, edit and remove custom plugin names, short names and plugin categories without having to open Logic.
 2. Aurora is a fully fledged I/O label editor. You can use it to changes the labels of your inputs, outputs and busses. You can also save, export and import I/O label presets, allowing for easy switching between different I/O & bus configurations.
 3. Aurora can pull data directly from KVR Studio Manager, allowing additional information such as whether or not an update is available to be displayed at a glance. This feature is completely optional.
 
