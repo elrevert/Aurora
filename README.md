@@ -58,6 +58,7 @@ Aurora has been tested and confirmed as working on the following OS and software
 3. Right-click -> Open
 4. Depending on your Gatekeeper configuration, you may need to complete the following steps: System Settings -> Privacy and Security -> Open Anyway.
 5. **Be aware that Aurora is currently in Alpha. There may be significant bugs.** I advise against using it with any Logic installation where you don't want to risk losing custom names, preferences or I/O labels.
+6. **Please check [Known Bugs & Limitations](#known-bugs--limitations) before creating a bug report.
 
 ### General Usage
 
