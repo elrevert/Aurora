@@ -127,7 +127,7 @@ KVR Studio Manager already does what we need and it does it far better than anyt
 
 ## Known Bugs & Limitations
 
-- Recently Installed dates do not persist between system updates - all are reset to the date the update happened following an update.
+- 'Install Date' does not persist between system updates - all are reset to the date the update happened following an update.
 - Column size is reset to default when toggling the Hide Badges option in Settings (SwiftUI Table limitation).
 - Column size is not persisted between launches (SwiftUI Table limitation). 
 - 'Update Now' button will link to whatever KVR SM links to - usually either a direct download or the vendor website.
