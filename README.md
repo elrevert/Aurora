@@ -73,7 +73,7 @@ Aurora has been tested and confirmed as working on the following OS and software
 
 ### I want to help out with Alpha testing, how can I do this?
 
-Just use the app and report any bugs you find. The main goal of the alpha is to test Aurora with as many different audio interfaces as possible.
+Just use the app and report any bugs you find. The main goal of the alpha is to test the I/O label functionality with as many different audio interfaces as possible.
 <br>
 <br>
 
