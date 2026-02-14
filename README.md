@@ -52,7 +52,7 @@ Aurora has been tested and confirmed as working on the following OS and software
 
 ## Installation
 
-0. (If you want Aurora to show whether plugin updates are available) Install [KVR Studio Manager](https://www.kvraudio.com/kvr-studio-manager), open it and run a scan. This step is completely optional.
+0. (If you want Aurora to show whether plugin updates are available) Install [KVR Studio Manager](https://www.kvraudio.com/kvr-studio-manager), open it, run a scan and hit 'Sync with KVR'. This step is completely optional.
 1. Download the latest release of Aurora and unzip.
 2. Drag Aurora into your Applications folder.
 3. Right-click -> Open
