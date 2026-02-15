@@ -124,6 +124,8 @@ KVR Studio Manager already does what we need and it does it far better than anyt
 
 - Ability to delete unwanted architectures from plugins (ARM/Intel).
 - Full 'backup and restore' functionality across plugins and I/O.
+- Usused plugin scanner (ability to parse all Logic projects within a folder).
+- Workflow profiles.
 
 ## Known Bugs & Limitations
 
